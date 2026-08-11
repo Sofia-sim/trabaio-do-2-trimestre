@@ -1,16 +1,21 @@
-body{
+body {
 background-image: url(fundo-quadrado-de-padrao-gradiente-vermelho-e-preto_7954-23753\ 1.png);
 background-size: cover;
 }
 
-p{
+p {
     color: black;
 }
 
-header{
+header {
     align-items: center;
 }
 
-p{
+p {
     font-size: 32px;
+}
+
+.poster {
+    display: flex;
+    font-size: 36px;
 }
