@@ -11,10 +11,6 @@ header {
     align-items: center;
 }
 
-p {
-    font-size: 32px;
-}
-
 .poster {
     display: flex;
     font-size: 36px;
