@@ -15,3 +15,7 @@ header {
     display: flex;
     font-size: 36px;
 }
+
+section {
+    align-items: center;
+}
