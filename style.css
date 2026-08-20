@@ -20,3 +20,8 @@ section {
     align-items: center;
     color: white;
 }
+footer {
+    align-items: end;
+    color: white;
+    font-size: small;
+}
